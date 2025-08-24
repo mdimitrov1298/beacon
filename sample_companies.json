@@ -1,0 +1,20 @@
+[
+  {
+    "uid": "123456789",
+    "name": "Tech Solutions Ltd",
+    "manager": "John Smith",
+    "address": "123 Business Street, Sofia, Bulgaria"
+  },
+  {
+    "uid": "987654321",
+    "name": "Digital Innovations Corp",
+    "manager": "Maria Petrova",
+    "address": "456 Innovation Avenue, Plovdiv, Bulgaria"
+  },
+  {
+    "uid": "555666777",
+    "name": "Green Energy Solutions",
+    "manager": "Ivan Dimitrov",
+    "address": "789 Eco Road, Varna, Bulgaria"
+  }
+]
